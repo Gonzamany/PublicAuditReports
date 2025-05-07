@@ -1,4 +1,4 @@
-
+rigoro2508@gmail.com 
 ![NS_Logo](https://github.com/NethermindEth/PublicAuditReports/assets/114106639/637075e6-501c-4350-be8f-6e2afc38b136)
 
 
